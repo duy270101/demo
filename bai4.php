@@ -6,4 +6,5 @@
     $a = rand();
     $b = rand (50,100);
     echo " hai số ngẫu nhiên là \$a vơi \$b là: $a, $b"
+    echo "hai số";
 ?>
